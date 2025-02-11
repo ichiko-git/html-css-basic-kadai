@@ -33,7 +33,7 @@ main {
   box-sizing: border-box;
 }
 #parent .contents h2 {
-  font-style: 25px;
+  font-size: 25px;
   border-bottom: 3px dotted rgb(236, 122, 122);
 }
 #parent .contents h2::before {
